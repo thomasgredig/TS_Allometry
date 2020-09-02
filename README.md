@@ -10,4 +10,4 @@ nls(data=d,
     start = list(k=4.6, M=5.2,N=0.22, B=3.8)) -> fit
 ```
 
-!(fitted data)[allometry-fit.png]
+![fitted data](fig.png)
